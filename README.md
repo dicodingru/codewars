@@ -10,7 +10,13 @@
   <tr>
     <td>1</td>
     <td>7kyu</td>
-    <td>[Instructions](./kata/7kyu/mumbling.md) >>> [Solution](./kata/7kyu/mumbling.js)</td>
+    <td><a href="./kata/7kyu/mumbling.md">Instructions</a> >>> <a href="./kata/7kyu/mumbling.js">Solution</a></td>
+    <td>JavaScript</td>
+  </tr>
+  <tr>
+    <td>2</td>
+    <td>7kyu</td>
+    <td><a href="./kata/7kyu/ones-and-zeros.md">Instructions</a> >>> <a href="./kata/7kyu/ones-and-zeros.js">Solution</a></td>
     <td>JavaScript</td>
   </tr>
 </table>
