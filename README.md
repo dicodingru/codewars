@@ -19,4 +19,10 @@
     <td><a href="./kata/7kyu/ones-and-zeros.md">Instructions</a> >>> <a href="./kata/7kyu/ones-and-zeros.js">Solution</a></td>
     <td>JavaScript</td>
   </tr>
+  <tr>
+    <td>3</td>
+    <td>6kyu</td>
+    <td><a href="./kata/6kyu/build-tower.md">Instructions</a> >>> <a href="./kata/6kyu/build-tower.js">Solution</a></td>
+    <td>JavaScript</td>
+  </tr>
 </table>
