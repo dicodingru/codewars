@@ -25,4 +25,10 @@
     <td><a href="./kata/6kyu/build-tower.md">Instructions</a> >>> <a href="./kata/6kyu/build-tower.js">Solution</a></td>
     <td>JavaScript</td>
   </tr>
+  <tr>
+    <td>4</td>
+    <td>6kyu</td>
+    <td><a href="./kata/6kyu/equal-sides-of-an-array.md">Instructions</a> >>> <a href="./kata/6kyu/equal-sides-of-an-array.js">Solution</a></td>
+    <td>JavaScript</td>
+  </tr>
 </table>
