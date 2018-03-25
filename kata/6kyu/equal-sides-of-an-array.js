@@ -4,8 +4,7 @@ const findEvenIndex = (arr) => {
   }
 
   const iter = ([head, ...rest], index, sumLeft, sumRight) => {
-    const newSumRight = sumRight - head;
-    if (sumLeft === newSumRight) {
+    if (sumLeft === sumRight - head) {
       return index;
     }
 
@@ -13,12 +12,12 @@ const findEvenIndex = (arr) => {
       return -1;
     }
 
-    return iter(rest, index + 1, sumLeft + head, newSumRight);
+    return iter(rest, index + 1, sumLeft + head, sumRight - head);
   };
 
-  const sum = arr.reduce((acc, item) => acc + item, 0);
+  const sumAll = arr.reduce((acc, item) => acc + item, 0);
 
-  return iter(arr, 0, 0, sum);
+  return iter(arr, 0, 0, sumAll);
 };
 
 export default findEvenIndex;
