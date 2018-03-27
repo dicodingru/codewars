@@ -1,4 +1,4 @@
-# Codewars kata solutions
+# [Codewars Kata Solutions](https://www.codewars.com/users/dicodingru/completed)
 
 <table border="0" style="width:100%;">
   <tr>
@@ -41,6 +41,13 @@
     <td>6kyu</td>
     <td><a href="./kata/6kyu/array-dot-diff.md">Array.diff</a></td>
     <td><a href="./kata/6kyu/array-dot-diff.js">Solution</a></td>
+    <td>JavaScript</td>
+  </tr>
+  <tr>
+    <td>6</td>
+    <td>5kyu</td>
+    <td><a href="./kata/5kyu/first-non-repeating-character.md">First non-repeating character</a></td>
+    <td><a href="./kata/5kyu/first-non-repeating-character.js">Solution</a></td>
     <td>JavaScript</td>
   </tr>
 </table>
