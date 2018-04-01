@@ -50,4 +50,11 @@
     <td><a href="./kata/5kyu/first-non-repeating-character.js">Solution</a></td>
     <td>JavaScript</td>
   </tr>
+  <tr>
+    <td>7</td>
+    <td>5kyu</td>
+    <td><a href="./kata/5kyu/directions-reduction.md">Directions Reduction</a></td>
+    <td><a href="./kata/5kyu/directions-reduction.js">Solution</a></td>
+    <td>JavaScript</td>
+  </tr>
 </table>
