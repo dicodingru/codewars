@@ -57,4 +57,11 @@
     <td><a href="./kata/5kyu/directions-reduction.js">Solution</a></td>
     <td>JavaScript</td>
   </tr>
+  <tr>
+    <td>8</td>
+    <td>5kyu</td>
+    <td><a href="./kata/5kyu/rot13-1.md">Rot13</a></td>
+    <td><a href="./kata/5kyu/rot13-1.js">Solution</a></td>
+    <td>JavaScript</td>
+  </tr>
 </table>
