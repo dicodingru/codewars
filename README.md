@@ -64,4 +64,11 @@
     <td><a href="./kata/5kyu/rot13-1.js">Solution</a></td>
     <td>JavaScript</td>
   </tr>
+  <tr>
+    <td>9</td>
+    <td>4kyu</td>
+    <td><a href="./kata/4kyu/strings-mix.md">Strings Mix</a></td>
+    <td><a href="./kata/4kyu/strings-mix.js">Solution</a></td>
+    <td>JavaScript</td>
+  </tr>
 </table>
